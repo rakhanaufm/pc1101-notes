@@ -147,3 +147,39 @@ What is the speed of Voyager as observed from Sacagawea?
 $$
 v_{v-s} = \frac{v_{v}-v_{s}}{1- \frac{v_{v}v_{s}}{c^{2}}}
 $$
+
+$$
+E^{2} = \gamma^{2}m^{2}c^4
+$$
+$$
+\gamma^{2} = \frac{1}{1 - \frac{v^{2}}{c^{2}}} = \frac{c^{2}}{c^{2}-v^{2}} = \frac{\frac{E}{\gamma m}}{\frac{E}{\gamma m} - \frac{p^{2}}{\gamma^{2}m^{2}}} \Rightarrow c^{2}(\gamma^{2}-1) = v^{2}
+$$
+
+$$
+\frac{p}{\gamma m} = v
+$$
+$$
+p^{2} = \gamma^{2}m^{2}v^{2}
+$$
+
+$$
+E^{2} = p^{2} \frac{c^4}{v^{2}} = p^{2}c^{2} + m^{2}c^4
+$$
+$$
+p^{2} = \frac{m^{2}v^{2}}{1- \frac{v^{2}}{c^{2}}}
+$$
+$$
+p^{2} - \frac{p^{2}v^{2}}{c^{2}} = m^{2}v^{2}
+$$
+$$
+v^{2} = \frac{p^{2}}{\frac{p^{2}}{c^{2}}+ m^{2}} = \frac{p^{2}c^{2}}{p^{2} + m^{2}c^{2}}
+$$
+$$
+\gamma^{2} = \frac{1}{1- \frac{\frac{p^{2}}{\frac{p^{2}}{c^{2}}+m^{2}}}{c^{2}}} = 1 + \frac{p^{2}}{m^{2}c^{2}}
+$$
+$$
+E^{2} = \left( 1+ \frac{p^{2}}{m^{2}c^{2}} \right)m^{2}c^4 = m^{2}c^4 + p^{2}c^{2}
+$$
+$$
+E = \sqrt{ p^{2}c^{2} + m^{2}c^4 }
+$$

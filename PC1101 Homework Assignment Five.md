@@ -94,38 +94,29 @@ $$
 \hat{w} = c_{w}\hat{z} + s_{w}\hat{x}
 $$
 Now let's check the coefficient of $z$. 
-Let's calculate the left hand side, focusing only on the coefficients of $z$. 
+Let's calculate the left hand side, focusing only on the coefficients of $x$. 
 $$
 c_{w}z'' + s_{w}x'' = c_{w}\gamma_{u}(z-ut) + s_{w}\gamma_{v}[x-\beta_{v}\gamma_{u}(ct-\beta_{u}v)]
 $$
-From the first term, we have
+Left hand side, we have
 $$
-c_{w}\gamma_{u}z
-$$
-now from the second term, we have
-$$
-s_{w}\gamma_{v}\beta_{v}\gamma_{u}\beta_{u}z
-$$
-In total
-$$
-\gamma_{u}(c_{w} + s_{w}\gamma_{v}\beta_{v}\beta_{u})
+s_{w}\gamma_{v}x
 $$
 Now let's observe the right hand side, the $z$ coefficient must be
 $$
-\gamma_{w}c_{w}
-$$
-and because $\gamma_{w} = \gamma_{u}\gamma_{v}$. We get for the coefficient
-$$
-\gamma_{u}\gamma_{v}c_{w}
+\gamma_{w}s_{w}x
 $$
 Now let's compare, for them to be equal this equation must hold true
 $$
-\gamma_{u}(c_{w} + s_{w}\gamma_{v}\beta_{v}\beta_{u}) = \gamma_{u}\gamma_{v}c_{w}
+\gamma_{v}s_{w} = \gamma_{w}s_{w} \Rightarrow \gamma_{v} = \gamma_{w}
 $$
 $$
-c_{w}+ s_{w} \gamma_{v} \beta_{v}\beta_{u} = \gamma_{v} c_{w}
+\gamma_{v} = \gamma_{v}\gamma_{u}
 $$
-However, this is not true in general. We reach a contradiction, and thus conclude that this transformation is not purely a boost.
+$$
+\gamma_{u} = \frac{1}{\sqrt{ 1 - \frac{u^{2}}{c^{2}} }} = 1
+$$
+However, this is never true. The reason is that $u$ is non-zero, or $\gamma_{u} \neq 1$
 d)
 If we instead flip the order of the boost, say doing $x$-direction and then the $z$-direction. We have for the $\mathbf{w}$ 
 $$

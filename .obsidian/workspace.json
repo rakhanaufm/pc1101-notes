@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac076c66ee7c1215",
+            "id": "f5c9ebdd5d151f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27 January 2026.md",
+                "file": "Barn-Pole Paradox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27 January 2026"
+              "title": "Barn-Pole Paradox"
+            }
+          },
+          {
+            "id": "cdf50dc93a0de1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHSH Inequality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHSH Inequality"
+            }
+          },
+          {
+            "id": "824fdfec1da83022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14 April 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 April 2026"
+            }
+          },
+          {
+            "id": "6f708163265164de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC1101 Homework Assignment Ten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PC1101 Homework Assignment Ten"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,44 +237,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac076c66ee7c1215",
+  "active": "cdf50dc93a0de1ca",
   "lastOpenFiles": [
-    "PC1101 Homework Assignment One.md",
-    "Untitled.base",
-    "README.md",
-    "PC1101 Homework Assignment Two.md",
-    "03 February 2026.md",
-    "30 January 2026.md",
-    "PC1101 Homework Assignment Three.md",
-    "27 January 2026.md",
-    "23 January 2026.md",
-    "20 January 2026.md",
-    "20 February 2026.md",
-    "Klein-Gordon Lattice.md",
     "Klein-Gordon.md",
-    "Christoffel Symbols.md",
+    "CHSH Inequality.md",
     "Barn-Pole Paradox.md",
-    "13 February 2026.md",
-    "10 February 2026.md",
+    "Klein-Gordon Lattice.md",
+    "Christoffel Symbols.md",
+    "10 April 2026.md",
+    "PC1101 Homework Assignment Nine.md",
+    "PC1101 Homework Assignment Ten.md",
+    "14 April 2026.md",
+    "PC1101 Homework Assignment Eight.md",
+    "10 March 2026.md",
+    "PC1101 Homework Assignment 10.md",
+    "PC1101 Homework Assignment Nine.pdf",
+    "PC1101 Homework Assignment Eight.pdf",
+    "13 March 2026.md",
+    "27 March 2026.md",
+    "17 March 2026.md",
+    "PC1101 Homework Assignment Seven.md",
+    "24 March 2025.md",
+    "PC1101 Homework Assignment Seven.pdf",
+    "Pasted image 20260127162100.png",
     "06 February 2026.md",
+    "03 February 2026.md",
+    "6 March 2026.md",
+    "30 January 2026.md",
+    "27 January 2026.md",
+    "20 January 2026.md",
+    "23 January 2026.md",
     "16 January 2026.md",
-    "13 January 2026.md",
-    "PC1101 Homework Assignment Six.md",
-    "PC1101 Homework Assignment Five.md",
-    "PC1101 Homework Assignment Five.pdf",
-    "PC1101 Homework Assignment Four.md",
-    "PC1101 Homework Assignment Four.pdf",
-    "PC1101 Homework Assignment Three.pdf",
-    "PC1101 Homework Assignment One.pdf",
-    "Klein-Gordon.md~",
-    "PC1101 Homework Assignment Two.pdf",
-    "WhatsApp Image 2026-02-11 at 22.17.21(1).jpeg",
+    "10 February 2026.md",
+    "PC1101 Homework Assignment Six.pdf",
+    "Light.png",
+    "Pasted image 20260306131605.png",
     "WhatsApp Image 2026-02-11 at 22.17.21.jpeg",
     "WhatsApp Image 2026-02-11 at 22.17.22.jpeg",
-    "Pasted image 20260206111124.png",
-    "Pasted image 20260127162100.png",
+    "WhatsApp Image 2026-02-11 at 22.17.21(1).jpeg",
     "Pasted image 20260127161924.png",
+    "Pasted image 20260206111124.png",
     "Pasted image 20260120110544.png",
-    "Welcome.md"
+    "PC1101 Homework Assignment One.pdf",
+    "PC1101 Homework Assignment Two.pdf",
+    "PC1101 Homework Assignment Five.pdf",
+    "PC1101 Homework Assignment Three.pdf",
+    "PC1101 Homework Assignment Four.pdf",
+    "Untitled.base"
   ]
 }
